@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "251363350528",
+    "firebase_url": "https://budgepro.firebaseio.com",
+    "project_id": "budgepro",
+    "storage_bucket": "budgepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251363350528:android:5b0db04aee1d81a8",
+        "android_client_info": {
+          "package_name": "com.testbudge.testbudge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251363350528-rcit2v8m8d0fvhmdgu4h7pku6nuhne8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6aCx5NaUfxNtNqicHXvzEY0V5crF4tI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
